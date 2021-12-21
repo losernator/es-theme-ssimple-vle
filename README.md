@@ -1,4 +1,4 @@
-# ssimple v - vertical theme for Retropie Emulationstation
+# ssimple VL - theme for Retropie Emulationstation
 Theme 'SSIMPLE VL'\
 Landcape version of SSIMPLE V theme - https://github.com/losernator/es-theme-ssimple-ve
  
@@ -28,7 +28,7 @@ tested on 1920x1080 and 1280x720 resolution.
 
 
 ## License
-gpl-3.0
+
 
 ## LOGO NOTICE
 * The used logos and trademarks are copyright of their respective owners.
